@@ -1,7 +1,3 @@
-# Search-CSV-Files-in-S3-Bucket
-
-Here is a README.md file that explains the code and concepts used in your Jupyter Notebook:
-
 # Searching CSV Files in an AWS S3 Bucket
 
 This project provides a Python script designed to search for specific keywords within CSV files stored in an AWS S3 bucket. It leverages the `boto3` library to interact with S3 and the `tabulate` library for presenting search results in a readable format. The script is structured to work efficiently by using multithreading to process multiple CSV files concurrently.
